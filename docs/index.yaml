@@ -2,20 +2,20 @@ apiVersion: v1
 entries:
   aycap-demo-app:
   - apiVersion: v1
-    created: 2018-06-11T18:31:38.931878+07:00
+    created: 2018-06-11T18:36:17.14812+07:00
     description: A Helm chart for aycap spring demo app
     digest: d016878f081c710a87379fe124c6d3d4181dd8a5776739c1ec5483f543abba5f
     name: aycap-demo-app
     urls:
-    - https://github.com/chatchaw/demo-chart/aycap-demo-app-0.1.0.tgz
+    - https://chatchaw.github.io/demo-chart/aycap-demo-app-0.1.0.tgz
     version: 0.1.0
   aycap-demo-app-full:
   - apiVersion: v1
-    created: 2018-06-11T18:31:38.935126+07:00
+    created: 2018-06-11T18:36:17.150889+07:00
     description: A Helm chart for aycap spring demo app
     digest: afae038b505b035a21fbd4ec1d7a83d260cf9fcf58c32953f3de982d8a2c1e9c
     name: aycap-demo-app-full
     urls:
-    - https://github.com/chatchaw/demo-chart/aycap-demo-app-full-0.1.0.tgz
+    - https://chatchaw.github.io/demo-chart/aycap-demo-app-full-0.1.0.tgz
     version: 0.1.0
-generated: 2018-06-11T18:31:38.929212+07:00
+generated: 2018-06-11T18:36:17.146383+07:00
