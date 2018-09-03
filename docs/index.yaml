@@ -2,20 +2,61 @@ apiVersion: v1
 entries:
   aycap-demo-app:
   - apiVersion: v1
-    created: 2018-06-11T18:36:17.14812+07:00
+    created: 2018-09-03T19:51:47.148769+07:00
     description: A Helm chart for aycap spring demo app
     digest: d016878f081c710a87379fe124c6d3d4181dd8a5776739c1ec5483f543abba5f
     name: aycap-demo-app
     urls:
-    - https://chatchaw.github.io/demo-chart/aycap-demo-app-0.1.0.tgz
+    - aycap-demo-app-0.1.0.tgz
     version: 0.1.0
   aycap-demo-app-full:
   - apiVersion: v1
-    created: 2018-06-11T18:36:17.150889+07:00
+    created: 2018-09-03T19:51:47.151905+07:00
     description: A Helm chart for aycap spring demo app
     digest: afae038b505b035a21fbd4ec1d7a83d260cf9fcf58c32953f3de982d8a2c1e9c
     name: aycap-demo-app-full
     urls:
-    - https://chatchaw.github.io/demo-chart/aycap-demo-app-full-0.1.0.tgz
+    - aycap-demo-app-full-0.1.0.tgz
     version: 0.1.0
-generated: 2018-06-11T18:36:17.146383+07:00
+  - apiVersion: v1
+    created: 2018-09-03T19:51:47.156793+07:00
+    description: A Helm chart for aycap spring demo app
+    digest: 2ab28f2e19fa36ceda68924fdf4b63c596c0123056821715c7cc9ea9a269294d
+    name: aycap-demo-app-full
+    urls:
+    - park/aycap-demo-app-full-0.1.0.linux.tgz
+    version: 0.1.0
+  - apiVersion: v1
+    created: 2018-09-03T19:51:47.1588+07:00
+    description: A Helm chart for aycap spring demo app
+    digest: 116c398b6331a074e7f0497da64abf8b530c318b0ed254f6ef092fed0a529899
+    name: aycap-demo-app-full
+    urls:
+    - park/aycap-demo-app-full-0.1.0.tgz
+    version: 0.1.0
+  thdemo-demo-app:
+  - apiVersion: v1
+    created: 2018-09-03T19:51:47.154489+07:00
+    description: A Helm chart for thdemo spring demo app
+    digest: 6b362c73c4bd283ead9aa4abef1ea8b36cddb9546ab542877fc2091d64c41974
+    name: thdemo-demo-app
+    urls:
+    - thdemo-demo-app-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v1
+    created: 2018-09-03T19:51:47.153628+07:00
+    description: A Helm chart for thdemo spring demo app
+    digest: f0f6ee49e51412078c8fa6b3eaa3ab74dfd1939979848630b374b16fe292ea65
+    name: thdemo-demo-app
+    urls:
+    - thdemo-demo-app-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
+    created: 2018-09-03T19:51:47.152612+07:00
+    description: A Helm chart for thdemo spring demo app
+    digest: f07ceaae15c79d0d8c9186fcb53e27537e6f007673dd029466c467aebfb72377
+    name: thdemo-demo-app
+    urls:
+    - thdemo-demo-app-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-09-03T19:51:47.146584+07:00
