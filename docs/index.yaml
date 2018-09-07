@@ -25,6 +25,14 @@ entries:
     digest: 54a2f16050e025ab5dbe7acccb4e97b4dc8ce171a10687b691c57277104bef80
     name: thdemo-demo-app
     urls:
+    - https://chatchaw.github.io/demo-chart/thdemo-demo-app-0.5.0.tgz
+    version: 0.5.0
+  - apiVersion: v1
+    created: 2018-09-03T20:01:23.898382+07:00
+    description: A Helm chart for thdemo spring demo app
+    digest: 54a2f16050e025ab5dbe7acccb4e97b4dc8ce171a10687b691c57277104bef80
+    name: thdemo-demo-app
+    urls:
     - https://chatchaw.github.io/demo-chart/thdemo-demo-app-0.4.0.tgz
     version: 0.4.0
   - apiVersion: v1
