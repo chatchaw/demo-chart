@@ -1,50 +1,52 @@
 apiVersion: v1
 entries:
-  scb-backend:
+  thdemo-demo-app:
   - apiVersion: v1
-    appVersion: "1.0"
-    created: 2018-10-04T06:21:13.027454606Z
-    description: A Helm chart for Kubernetes
-    digest: cc76c2161dc4490513738af1bef381e03b00d8b254a2e02afba13957cbc84358
-    name: scb-backend
+    created: 2018-10-11T11:44:10.854122+07:00
+    description: A Helm chart for thdemo spring demo app
+    digest: ead9f99af22784e28e18f6f700ded9251335cbcaf9032ee2ee84da461431cf27
+    name: thdemo-demo-app
     urls:
-    - https://chatchaw.github.io/demo-chart/scb-backend-0.1.1.tgz
-    version: 0.1.1
+    - https://chatchaw.github.io/demo-chart/thdemo-demo-app-0.6.0.tgz
+    version: 0.6.0
   - apiVersion: v1
-    appVersion: "1.0"
-    created: 2018-10-04T06:21:13.026996291Z
-    description: A Helm chart for Kubernetes
-    digest: 6179707db079ac976deefbd71a24507cb64342376bfd66e05200e570ed04c45d
-    name: scb-backend
+    created: 2018-10-11T11:44:10.849218+07:00
+    description: A Helm chart for thdemo spring demo app
+    digest: 32d7214e729b959311ee2f3b6f0a873b4ae1c36cb6d15e6329f85f0a4a7fe7fd
+    name: thdemo-demo-app
     urls:
-    - https://chatchaw.github.io/demo-chart/scb-backend-0.1.0.tgz
-    version: 0.1.0
-  scb-frontend:
+    - https://chatchaw.github.io/demo-chart/thdemo-demo-app-0.1.0.tgz
+    version: 0.5.0
   - apiVersion: v1
-    appVersion: "1.0"
-    created: 2018-10-04T06:21:13.028462184Z
-    description: A Helm chart for Kubernetes for IBM-SCB
-    digest: 12862cade36f6633de2547b2ddde16bb2a70cf83c9e09c8c5163237c86b5e70e
-    name: scb-frontend
+    created: 2018-10-11T11:44:10.853113+07:00
+    description: A Helm chart for thdemo spring demo app
+    digest: 131a73a22aa5ccc3dc2df542d5ba70800e5f34077ec71330186cc23e6c3322ce
+    name: thdemo-demo-app
     urls:
-    - https://chatchaw.github.io/demo-chart/scb-frontend-0.1.2.tgz
-    version: 0.1.2
+    - https://chatchaw.github.io/demo-chart/thdemo-demo-app-0.5.0.tgz
+    version: 0.5.0
   - apiVersion: v1
-    appVersion: "1.0"
-    created: 2018-10-04T06:21:13.028194815Z
-    description: A Helm chart for Kubernetes
-    digest: 396c5b4484d371182c60bb1a148de42f9a22d633f142cd078a8a80a02c63eb83
-    name: scb-frontend
+    created: 2018-10-11T11:44:10.852208+07:00
+    description: A Helm chart for thdemo spring demo app
+    digest: 54a2f16050e025ab5dbe7acccb4e97b4dc8ce171a10687b691c57277104bef80
+    name: thdemo-demo-app
     urls:
-    - https://chatchaw.github.io/demo-chart/scb-frontend-0.1.1.tgz
-    version: 0.1.1
+    - https://chatchaw.github.io/demo-chart/thdemo-demo-app-0.4.0.tgz
+    version: 0.4.0
   - apiVersion: v1
-    appVersion: "1.0"
-    created: 2018-10-04T06:21:13.027909877Z
-    description: A Helm chart for Kubernetes
-    digest: d6eb19546c679ea37e1b3177dc3d02c474d7a9df21d26731e92ec418d6307843
-    name: scb-frontend
+    created: 2018-10-11T11:44:10.851141+07:00
+    description: A Helm chart for thdemo spring demo app
+    digest: 6b362c73c4bd283ead9aa4abef1ea8b36cddb9546ab542877fc2091d64c41974
+    name: thdemo-demo-app
     urls:
-    - https://chatchaw.github.io/demo-chart/scb-frontend-0.1.0.tgz
-    version: 0.1.0
-generated: 2018-10-04T06:21:13.024809748Z
+    - https://chatchaw.github.io/demo-chart/thdemo-demo-app-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v1
+    created: 2018-10-11T11:44:10.850239+07:00
+    description: A Helm chart for thdemo spring demo app
+    digest: f0f6ee49e51412078c8fa6b3eaa3ab74dfd1939979848630b374b16fe292ea65
+    name: thdemo-demo-app
+    urls:
+    - https://chatchaw.github.io/demo-chart/thdemo-demo-app-0.2.0.tgz
+    version: 0.2.0
+generated: 2018-10-11T11:44:10.842447+07:00
